@@ -1,0 +1,22 @@
+﻿<Window x:Class="TMApi.AddAccountWindow"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       Title="Add Account" Width="500" Height="200">
+    <Window.Resources>
+        <Style TargetType="Window">
+            <Setter Property="Background" Value="#FFD1A4A4" />
+            <!-- Розовый фон окна -->
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Имя аккаунта" FontWeight="Bold" Foreground="Purple" />
+            <TextBox x:Name="accountNameTextBox" Margin="0,0,0,5" Text="{Binding AccountName, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="API-ключ" FontWeight="Bold" Foreground="Purple" />
+            <TextBox x:Name="apiKeyTextBox" Margin="0,0,0,5" Text="{Binding ApiKey, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Платежный пароль" FontWeight="Bold" Foreground="Purple" />
+            <TextBox x:Name="paymentPasswordTextBox" Margin="0,0,0,10" Text="{Binding PaymentPassword, UpdateSourceTrigger=PropertyChanged}" />
+            <Button Content="Сохранить" Click="SaveButton_Click" Width="100" HorizontalAlignment="Right" Background="Purple" Foreground="White" />
+        </StackPanel>
+    </Grid>
+</Window>
