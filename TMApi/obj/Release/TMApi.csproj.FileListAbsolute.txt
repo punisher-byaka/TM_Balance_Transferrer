@@ -1,0 +1,17 @@
+C:\Users\Игорь\Desktop\TMApi\TMApi\bin\Release\TMApi.exe.config
+C:\Users\Игорь\Desktop\TMApi\TMApi\bin\Release\TMApi.exe
+C:\Users\Игорь\Desktop\TMApi\TMApi\bin\Release\TMApi.pdb
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\InstructionWindow.baml
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\MainWindow.baml
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\InstructionWindow.g.cs
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\MainWindow.g.cs
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\App.g.cs
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi_MarkupCompile.cache
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi.g.resources
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi.Properties.Resources.resources
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi.exe
+C:\Users\Игорь\Desktop\TMApi\TMApi\obj\Release\TMApi.pdb
